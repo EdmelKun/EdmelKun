@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30623658/README.md)
+[README.md](https://github.com/user-attachments/files/30623779/README.md)
 <img src="./assets/banner.svg" width="100%" alt="Edmel John Linaugo — Full Stack Software Engineer">
 
 <p align="center">
@@ -130,11 +130,9 @@ Dec 2022 — Jun 2023  Seahorse Marketing · Full Stack Developer / Tester
 
 ## Signals
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EdmelKun&show_icons=true&hide_border=true&bg_color=0C1A2B&title_color=31B0E6&icon_color=F5B335&text_color=9FB8CE">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmelKun&layout=compact&hide_border=true&bg_color=0C1A2B&title_color=31B0E6&text_color=9FB8CE">
-</p>
+<img src="https://raw.githubusercontent.com/EdmelKun/EdmelKun/output/snake.svg" width="100%" alt="contribution snake">
 
+<sub>Most of my work lives in private client repos, so the graph undercounts — but it's honest.</sub>
 
 ---
 
