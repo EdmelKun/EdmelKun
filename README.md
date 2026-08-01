@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30623525/README.md)
+[README.md](https://github.com/user-attachments/files/30623658/README.md)
 <img src="./assets/banner.svg" width="100%" alt="Edmel John Linaugo — Full Stack Software Engineer">
 
 <p align="center">
@@ -34,7 +34,7 @@ plus tests written on the assumption that a teammate will inherit them (Jest, Mo
 | --- | --- |
 | **Full stack** | Form field to query plan, no handoffs |
 | **AI in prod** | LLM features live, under real traffic |
-| **Remote** | Iloilo → Quezon City → US-based team since 2024. Distance is a solved problem. |
+| **Remote** | Iloilo → a Quezon City team since 2024. Distance is a solved problem. |
 
 ---
 
@@ -43,19 +43,21 @@ plus tests written on the assumption that a teammate will inherit them (Jest, Mo
 The repos are private — client work. The products aren't.
 
 **`● LIVE`  Ryze Health** · [ryzehealth.com ↗](https://www.ryzehealth.com/)
-*Health benefits for independent physicians*
-Insurance quoting, a specialty-medication marketplace, and a physician provider network,
-all funnelling through one member portal. Healthcare is a domain where an edge case is
-someone's actual coverage, which changes how carefully you write things. I work across
-the stack: lead capture into the CRM, the Physician Alliance rebrand, real-time
-consultation features, and the move onto production infrastructure.
+*One portal for independent physicians*
+Insurance, a specialty-medication marketplace, provider network, and telehealth had every
+reason to end up as four disconnected products. They didn't — physicians sign in once and
+everything is there. Built with a US-based team, which means most of my design decisions
+get reviewed while I'm asleep and vice versa; you learn to write a PR description that
+answers the questions before they're asked.
 `TypeScript` `React` `Node.js` `Express` `PostgreSQL` `AWS` `Docker`
 
 **`● LIVE`  Boston Heart Diagnostics** · [bostonheartdiagnostics.com ↗](https://bostonheartdiagnostics.com/)
-*Cardiovascular diagnostics for providers and patients*
-Testing that maps cardiovascular risk well past a standard lipid panel, delivered to
-clinicians and patients through connected portals.
-`TypeScript` `React` `Node.js` `PostgreSQL`
+*Diagnostic results, from the lab to a patient's phone*
+Maintained the portal where physicians upload diagnostic results and patients read them on
+mobile. The stakes sit on the patient's side of that handoff: someone opens the app to find
+out something about their own heart. Maintenance work on a live clinical system is its own
+discipline — you change things without ever taking them down.
+`TypeScript` `React` `React Native` `Node.js` `PostgreSQL`
 
 **`◆ DELIVERED`  Seahorse Inventory System** · *Seahorse Marketing, contract*
 Inventory management built end to end for a retail client — offline-capable client, typed
