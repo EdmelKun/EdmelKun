@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30623389/README.md)
+[README.md](https://github.com/user-attachments/files/30623525/README.md)
 <img src="./assets/banner.svg" width="100%" alt="Edmel John Linaugo — Full Stack Software Engineer">
 
 <p align="center">
@@ -15,46 +15,52 @@
 
 > *A bit chaotic when coding.*
 
-Full stack in TypeScript across the PERN stack — PostgreSQL, Express, React, Node.js — with
-React Native for mobile. Full stack is where I do most of my work and where I'm most at home:
-I'd rather own a feature from the form field to the query plan than hand it across a boundary.
+Most bugs live in the seams — where what the form field promised stops matching what the
+query actually does. So I'd rather own the whole path than hand a feature over a boundary
+and hope. That's the honest reason I work full stack.
 
-I ship **AI-powered features into production** — LLMs wired into real product workflows, not
-isolated demos. It's an area I've enjoyed expanding into and want to keep growing alongside
-core product engineering.
+TypeScript across the PERN stack — PostgreSQL, Express, React, Node.js — and React Native
+when it needs to live in someone's pocket.
 
-I also handle the deployment side: Docker, ECR, EC2, Fargate, and the CI/CD around them,
-plus testing that holds up in a team (Jest, Mocha, Cypress).
+I ship **AI-powered features into production**: LLMs wired into workflows real people use,
+not demos that impress once and fall over on the second prompt. Making them behave under
+actual traffic turns out to be a different job from making them work, and it's the part
+I've enjoyed most.
+
+I also stay past the merge. Docker, ECR, EC2, Fargate, and the pipelines that carry it —
+plus tests written on the assumption that a teammate will inherit them (Jest, Mocha, Cypress).
 
 |  |  |
 | --- | --- |
-| **Full stack** | Frontend, API, database, deploy — end to end |
-| **AI in prod** | LLM features shipped to real users |
-| **Remote** | Open to full stack, backend, and AI-focused roles |
+| **Full stack** | Form field to query plan, no handoffs |
+| **AI in prod** | LLM features live, under real traffic |
+| **Remote** | Iloilo → Quezon City → US-based team since 2024. Distance is a solved problem. |
 
 ---
 
 ## In Production
 
-Work is under NDA, so the repos are private — these are the live products.
+The repos are private — client work. The products aren't.
 
 **`● LIVE`  Ryze Health** · [ryzehealth.com ↗](https://www.ryzehealth.com/)
-*Health benefits platform for independent physicians*
-Insurance quoting and onboarding, a specialty-medication marketplace, and a physician
-provider network — all running through a single member portal. I work across the stack
-here: lead-capture flows wired into the CRM, the Physician Alliance rebrand, real-time
-consultation features, and the infrastructure move to production.
+*Health benefits for independent physicians*
+Insurance quoting, a specialty-medication marketplace, and a physician provider network,
+all funnelling through one member portal. Healthcare is a domain where an edge case is
+someone's actual coverage, which changes how carefully you write things. I work across
+the stack: lead capture into the CRM, the Physician Alliance rebrand, real-time
+consultation features, and the move onto production infrastructure.
 `TypeScript` `React` `Node.js` `Express` `PostgreSQL` `AWS` `Docker`
 
 **`● LIVE`  Boston Heart Diagnostics** · [bostonheartdiagnostics.com ↗](https://bostonheartdiagnostics.com/)
-*Cardiovascular diagnostics — provider and patient platform*
-Diagnostic testing that maps cardiovascular risk beyond standard lipid panels, delivered
-to clinicians and patients through connected portals.
+*Cardiovascular diagnostics for providers and patients*
+Testing that maps cardiovascular risk well past a standard lipid panel, delivered to
+clinicians and patients through connected portals.
 `TypeScript` `React` `Node.js` `PostgreSQL`
 
 **`◆ DELIVERED`  Seahorse Inventory System** · *Seahorse Marketing, contract*
-Inventory management built end to end and shipped to a retail client — offline-capable
-client, typed API, and a tested data layer.
+Inventory management built end to end for a retail client — offline-capable client, typed
+API, tested data layer. Built it and tested it, which is a fast way to learn what your own
+code does badly.
 `Vite` `React` `TypeScript` `Express` `Prisma` `PostgreSQL` `RxDB` `Jest`
 
 ---
@@ -91,6 +97,9 @@ client, typed API, and a tested data layer.
 ---
 
 ## Deploy Log
+
+Taught networking on the side for most of it, which made me a better
+explainer and a worse sleeper.
 
 ```
 Oct 2024 — Present   Spectrum One · Associate Software Engineer
@@ -130,6 +139,9 @@ Dec 2022 — Jun 2023  Seahorse Marketing · Full Stack Developer / Tester
 ## Open a Connection
 
 Open to full stack, backend, and AI-focused product roles — remote friendly.
+
+If you're building something where the frontend and the database have to agree with each
+other, that's the work I like most.
 
 [**LinkedIn ↗**](https://www.linkedin.com/in/edmel-john-linaugo) · [**Email ↗**](mailto:elinaugo137@gmail.com)
 
