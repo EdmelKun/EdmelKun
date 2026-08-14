@@ -40,29 +40,28 @@ plus tests written on the assumption that a teammate will inherit them (Jest, Mo
 
 ## In Production
 
-The repos are private — client work. The products aren't.
+Client work is confidential, so no repos and no client names. What follows is the shape of
+the work rather than the systems themselves.
 
-**`● LIVE`  Ryze Health** · [ryzehealth.com ↗](https://www.ryzehealth.com/)
-*One portal for independent physicians*
-Insurance, a specialty-medication marketplace, provider network, and telehealth had every
-reason to end up as four disconnected products. They didn't — physicians sign in once and
-everything is there. Built with a US-based team, which means most of my design decisions
-get reviewed while I'm asleep and vice versa; you learn to write a PR description that
-answers the questions before they're asked.
+**`● LIVE`  Physician platform** · *healthcare · US market*
+Several separate product domains behind a single sign-in — the kind of thing that usually
+fragments into four apps, four logins, and four support queues. Keeping identity,
+permissions, and navigation coherent across all of them is most of the actual work. Built
+with a US-based team, which means most of my design decisions get reviewed while I'm asleep
+and vice versa; you learn to write a PR description that answers the questions before
+they're asked.
 `TypeScript` `React` `Node.js` `Express` `PostgreSQL` `AWS` `Docker`
 
-**`● LIVE`  Boston Heart Diagnostics** · [bostonheartdiagnostics.com ↗](https://bostonheartdiagnostics.com/)
-*Diagnostic results, from the lab to a patient's phone*
-Maintained the portal where physicians upload diagnostic results and patients read them on
+**`● LIVE`  Diagnostics portal and patient app** · *healthcare · US market*
+Maintained the portal where clinicians upload diagnostic results and patients read them on
 mobile. The stakes sit on the patient's side of that handoff: someone opens the app to find
-out something about their own heart. Maintenance work on a live clinical system is its own
+out something about their own health. Maintenance work on a live clinical system is its own
 discipline — you change things without ever taking them down.
 `TypeScript` `React` `React Native` `Node.js` `PostgreSQL`
 
-**`◆ DELIVERED`  Seahorse Inventory System** · *Seahorse Marketing, contract*
-Inventory management built end to end for a retail client — offline-capable client, typed
-API, tested data layer. Built it and tested it, which is a fast way to learn what your own
-code does badly.
+**`◆ DELIVERED`  Inventory system** · *retail · contract via Seahorse Marketing*
+Inventory management built end to end and shipped — offline-capable client, typed API, and
+a tested data layer.
 `Vite` `React` `TypeScript` `Express` `Prisma` `PostgreSQL` `RxDB` `Jest`
 
 ---
