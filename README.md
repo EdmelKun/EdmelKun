@@ -45,7 +45,7 @@ the work rather than the systems themselves.
 
 **`● LIVE`  Physician platform** · *healthcare · US market*
 Several separate product domains behind a single sign-in — the kind of thing that usually
-fragments into four apps, four logins, and four support queues. Keeping identity,
+fragments into separate apps, separate logins, and separate support queues. Keeping identity,
 permissions, and navigation coherent across all of them is most of the actual work. Built
 with a US-based team, which means most of my design decisions get reviewed while I'm asleep
 and vice versa; you learn to write a PR description that answers the questions before
@@ -53,7 +53,7 @@ they're asked.
 `TypeScript` `React` `Node.js` `Express` `PostgreSQL` `AWS` `Docker`
 
 **`● LIVE`  Diagnostics portal and patient app** · *healthcare · US market*
-Maintained the portal where clinicians upload diagnostic results and patients read them on
+Maintained a portal where clinicians upload diagnostic results and patients read them on
 mobile. The stakes sit on the patient's side of that handoff: someone opens the app to find
 out something about their own health. Maintenance work on a live clinical system is its own
 discipline — you change things without ever taking them down.
